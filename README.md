@@ -5,7 +5,7 @@
 
 ### Full 版（含地区分组）
 
-无 DNS 泄漏：
+无 DNS 泄漏（no-resolve）：
 
 https://raw.githubusercontent.com/EvilNeko/ACL4SSR/main/ACL4SSR_Online_Full_Mannix_No_DNS_Leak.ini
 
