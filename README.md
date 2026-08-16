@@ -5,11 +5,11 @@
 
 ### Full 版（含地区分组）
 
-无 DNS 泄漏（no-resolve）：
+有 DNS 泄漏防护（no-resolve）：
 
 https://raw.githubusercontent.com/EvilNeko/ACL4SSR/main/ACL4SSR_Online_Full_Mannix_No_DNS_Leak.ini
 
-无 DNS 泄漏（去除 no-resolve）：
+无 DNS 泄漏防护（去除 no-resolve）：
 
 https://raw.githubusercontent.com/EvilNeko/ACL4SSR/main/ACL4SSR_Online_Full_Mannix.ini
 
@@ -19,7 +19,7 @@ https://raw.githubusercontent.com/EvilNeko/ACL4SSR/main/ACL4SSR_Online_Full_Mann
 
 https://raw.githubusercontent.com/EvilNeko/ACL4SSR/main/ACL4SSR_Online_Mannix_No_DNS_Leak.ini
 
-无 DNS 泄漏（去除 no-resolve）：
+无 DNS 泄漏防护（去除 no-resolve）：
 
 https://raw.githubusercontent.com/EvilNeko/ACL4SSR/main/ACL4SSR_Online_Mannix.ini
 
