@@ -1,4 +1,5 @@
-基于 https://github.com/zsokami/ACL4SSR 修改的自用版
+## 注意
+本项目是基于 https://github.com/zsokami/ACL4SSR 修改的自用版
 
 ## 配置文件
 
