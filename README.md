@@ -1,4 +1,4 @@
-# 🛰️ ACL4SSR 自用定制版
+# 🛰️ ACL4SSR 自用修改版
 
 > 基于 [zsokami/ACL4SSR](https://github.com/zsokami/ACL4SSR) 修改的自用配置，适配 **Surge / Clash / Clash Meta (Mihomo)** 等订阅转换工具。
 
